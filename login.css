@@ -1,0 +1,25 @@
+
+
+h1 {
+  padding-left: 900px;
+  padding-top: 175px;
+  color: #2980b9;
+}
+.username{
+  padding-left: 800px;
+  padding-top: 5px;
+  color: #2980b9;
+}
+.pass{
+    color: #2980b9;
+    padding-top: 5px;
+    padding-left: 810px;
+}
+p{
+  padding-left: 935px;
+  padding-top: 40px;
+}
+body {
+  background: url(https://image.freepik.com/free-vector/padlock-with-keyhole-personal-data-security-illustrates-cyber-data-information-privacy-idea-blue-color-abstract-hi-speed-internet-technology_43778-440.jpg);
+  background-size: cover;
+}
